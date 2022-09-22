@@ -1,6 +1,14 @@
 body{
-    background: #BDBDBD;
+    background: white;
 }
-.text {
-    text-align: right;
+
+h1 {
+    top: 200px;
+    
+    font-size: 3cm;
+}
+
+h2 {
+    top: 400px;
+    font-size: 1cm;
 }
